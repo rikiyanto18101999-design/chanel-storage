@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 1" tvg-logo="https://via.placeholder.com/300x300?text=Channel+1" group-title="Entertainment","Channel 1"
+https://example-stream-1.com/live/channel1
+
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 2" tvg-logo="https://via.placeholder.com/300x300?text=Channel+2" group-title="Entertainment","Channel 2"
+https://example-stream-2.com/live/channel2
+
+#EXTINF:-1 tvg-id="3" tvg-name="Channel 3" tvg-logo="https://via.placeholder.com/300x300?text=Channel+3" group-title="Sports","Channel 3"
+https://example-stream-3.com/live/channel3
+
+#EXTINF:-1 tvg-id="4" tvg-name="Channel 4" tvg-logo="https://via.placeholder.com/300x300?text=Channel+4" group-title="News","Channel 4"
+https://example-stream-4.com/live/channel4
+
+#EXTINF:-1 tvg-id="5" tvg-name="Channel 5" tvg-logo="https://via.placeholder.com/300x300?text=Channel+5" group-title="Music","Channel 5"
+https://example-stream-5.com/live/channel5
+
+#EXTINF:-1 tvg-id="6" tvg-name="Channel 6" tvg-logo="https://via.placeholder.com/300x300?text=Channel+6" group-title="Lifestyle","Channel 6"
+https://example-stream-6.com/live/channel6
+
+#EXTINF:-1 tvg-id="7" tvg-name="Channel 7" tvg-logo="https://via.placeholder.com/300x300?text=Channel+7" group-title="Documentary","Channel 7"
+https://example-stream-7.com/live/channel7
+
+#EXTINF:-1 tvg-id="8" tvg-name="Channel 8" tvg-logo="https://via.placeholder.com/300x300?text=Channel+8" group-title="Kids","Channel 8"
+https://example-stream-8.com/live/channel8
+
+#EXTINF:-1 tvg-id="9" tvg-name="Channel 9" tvg-logo="https://via.placeholder.com/300x300?text=Channel+9" group-title="Movies","Channel 9"
+https://example-stream-9.com/live/channel9
+
+#EXTINF:-1 tvg-id="10" tvg-name="Channel 10" tvg-logo="https://via.placeholder.com/300x300?text=Channel+10" group-title="Premium","Channel 10"
+https://example-stream-10.com/live/channel10
