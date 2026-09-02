@@ -1,0 +1,14 @@
+#EXTM3U
+# Playlist video: "New Video Playlist"
+# Tambahkan URL atau path file video pada baris-baris berikut.
+# Contoh entry: 
+#EXTINF:-1,Artist/Creator - Judul Video
+#https://example.com/path/to/video.mp4
+
+# Sample videos
+#EXTINF:-1,Sample Video 1
+https://example.com/videos/sample1.mp4
+#EXTINF:-1,Sample Video 2
+https://example.com/videos/sample2.mp4
+#EXTINF:-1,Local Video
+/videos/video3.mp4
