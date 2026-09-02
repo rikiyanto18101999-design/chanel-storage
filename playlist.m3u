@@ -54,3 +54,5 @@ https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #======================================================== SCTV ====================================================================
 
+EXTINF:-1  group-title="Shareext@LOKAL_ID" tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png",TRANSTV(stream)
+https://livestream.transtv.co.id/stream/live/ttv.m3u8
