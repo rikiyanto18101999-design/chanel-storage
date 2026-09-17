@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 5,
-  "latest_version_name": "1.5",
-  "download_url": "https://github.com/rikiyanto18101999-design/chanel-storage/releases/download/1.5/app-debug.apk",
-  "release_notes": "Update TANGOFA TV v1.5!\n- banyak fitur tambahan\n- perbaiki gaya model youtube.",
+  "latest_version_code": 6,
+  "latest_version_name": "1.6",
+  "download_url": "https://github.com/rikiyanto18101999-design/chanel-storage/releases/download/1.6/app-debug.apk",
+  "release_notes": "Update TANGOFA TV v1.5!\n- banyak fitur tambahan\n- bug film.",
   "is_mandatory": false
 }
