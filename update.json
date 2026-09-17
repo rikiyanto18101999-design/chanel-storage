@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 2,
-  "latest_version_name": "1.2",
-  "download_url": "https://github.com/rikiyanto18101999-design/chanel-storage/releases/download/v1.2/app-debug.apk",
-  "release_notes": "Update TANGOFA TV v1.2!\n- Penambahan sumber XXIINDO SEMI\n- Fitur Auto-Update dalam aplikasi\n- Perbaikan bug.",
+  "latest_version_code": ,
+  "latest_version_name": "1.3",
+  "download_url": "https://github.com/rikiyanto18101999-design/chanel-storage/releases/download/v1.3/app-debug.apk",
+  "release_notes": "Update TANGOFA TV v1.3!\n- Penambahan fitur Nonton Bareng\n- Perbaikan bug loading.",
   "is_mandatory": false
 }
