@@ -67,4 +67,6 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s11/01.m3u8
 
                                                           trans tv
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="Indonesia Channels",TransTV HD
+#EXTVLCOPT:http-referrer=https://20.detik.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36
 https://video.detik.com/transtv-sec/smil:transtv.smil/chunklist_w1534918476_b744100_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODk2NDMyOTI4ODkmd293emF0b2tlbmhhc2g9QTlSS0xWb2NSZ25sWXl1Vjg0NnhoMTN6LXhZemV2azl5RHRsYzRlbnRoVT0=.m3u8
