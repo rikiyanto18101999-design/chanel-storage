@@ -80,3 +80,71 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sTHuz46XhalNvNWDUl-Jvv8k64A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg" group-title="Channel Indonesia", Trans 7 HD
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
+
+
+
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Indonesia",Trans TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Metro TV
+https://cdn.metrotvnews.com/live/metrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Kompas TV
+https://cdn.kompastv.com/live/kompastv/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",ANTV
+https://live.cdn.vidio.com/stream/ANTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Indonesia",TV One
+https://cdn-cf-tp1.visionplus.id/live/eds/TVONE/sa_hls/TVONE.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Trans TV
+https://trans7live.cdn.visionplus.id/live/eds/TRANSTV/sa_hls/TRANSTV.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Trans7
+https://trans7live.cdn.visionplus.id/live/eds/TRANS7/sa_hls/TRANS7.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Indosiar
+https://live.cdn.indostream.net/indosiar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Bali TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Elshinta TV
+http://rrelshinta.dens.tv/s/s10/index2.m3u8
+
+#EXTINF:-1 group-title="Indonesia",Rajawali TV
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:-1 group-title="Indonesia",The Indonesia Channel
+https://5effe161e0fba.streamlock.net/live/TIC.stream_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="International",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 group-title="International",NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1 group-title="International",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="International",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="International",Bloomberg TV
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
