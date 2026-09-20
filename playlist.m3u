@@ -81,6 +81,7 @@ https://live.cnnindonesia.com/transtv/smil:transtv/chunklist_w2685575259_b744100
 #EXTVLCOPT:http-user-agent=lgadrm.mpdplayer/v1;(Linux; Android 16; id; tfjGCdW)
 https://live.cnnindonesia.com/trans7/smil:trans7/chunklist_w2685575259_b744100_sleng.m3u8
 
+                                                          sport
 
-
-
+EXTINF:-1 group-title="|UK| SPORTS" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/SKYSPORTSPL.png" tvg-id="SkySportsPremiereLeague.uk",UK - SKY SPORTS PL UHD
+http://tv-sat.site:80/live/0045f64263/853e03a6c7f6/577996.ts
