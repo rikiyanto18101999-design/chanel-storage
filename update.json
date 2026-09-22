@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 13,
-  "latest_version_name": "1.11.2",
-  "download_url": "https://github.com/rikiyanto18101999-design/chanel-storage/releases/download/v1.11.2/app-debug.apk",
-  "release_notes": "Update TANGOFA TV v1.11.2!\n-perkenalkan nama saya riki nanti kamu reques saja apa yang mau ditambahkan.",
+  "latest_version_code": 14,
+  "latest_version_name": "1.12",
+  "download_url": "https://github.com/rikiyanto18101999-design/chanel-storage/releases/download/v1.12/app-debug.apk",
+  "release_notes": "Update TANGOFA TV v1.12!\n-perbaikan kolom pencarian.\n-mengatasi remot untuk tv android",
   "is_mandatory": false
 }
