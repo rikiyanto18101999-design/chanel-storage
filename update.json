@@ -1,7 +1,7 @@
 {
-  "latest_version_code": 15,
-  "latest_version_name": "1.12.6",
-  "download_url": "https://github.com/rikiyanto18101999-design/chanel-storage/releases/download/1.12.6/app-debug.apk",
-  "release_notes": "Update TANGOFA TV v1.12.6!\n-mengatasi tampilan daftar film.\n-memperbaiki daftar update anime dan donghua",
+  "latest_version_code": 16,
+  "latest_version_name": "1.13",
+  "download_url": "https://github.com/rikiyanto18101999-design/chanel-storage/releases/download/1.13/app-debug.apk",
+  "release_notes": "Update TANGOFA TV v1.13!\n-mengatasi tampilan daftar film.\n-memperbaiki daftar update anime dan donghua",
   "is_mandatory": false
 }
