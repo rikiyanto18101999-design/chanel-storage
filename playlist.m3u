@@ -13,7 +13,7 @@
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
 
-#EXTINF:-1 group-title="📺 || TIVI NASIONAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s" tvg-id="RCTI",RCTI 
+#EXTINF:-1 group-title="📺 TV Nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s" tvg-id="RCTI",RCTI 
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" 
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/ 
 https://stream.diorx.my.id/live/RCTI.m3u8
