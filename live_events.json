@@ -1,0 +1,26 @@
+[
+  {
+    "teamHome": "Indonesia",
+    "teamAway": "Vietnam",
+    "league": "Piala AFF",
+    "timeDisplay": "22:30 WIB",
+    "startTimeHour": 22,
+    "startTimeMinute": 30,
+    "channelTarget": "RCTI",
+    "isForcedLive": false,
+    "autoLiveByTime": true,
+    "durationMinutes": 120
+  },
+  {
+    "teamHome": "Thailand",
+    "teamAway": "Kamboja",
+    "league": "Piala AFF",
+    "timeDisplay": "23:30 WIB",
+    "startTimeHour": 23,
+    "startTimeMinute": 30,
+    "channelTarget": "iNews",
+    "isForcedLive": false,
+    "autoLiveByTime": true,
+    "durationMinutes": 120
+  }
+]
