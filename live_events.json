@@ -1,16 +1,1 @@
-[
- {
-   "teamHome": "Indonesia",
-    "teamAway": "Vietnam",
-    "league": "Piala AFF",
-    "timeDisplay": "22:30 WIB",
-    "startTimeHour": 22,
-    "startTimeMinute": 30,
-    "durationMinutes": 120,
-    "channelTarget": "RCTI",
-    "streamUrl": "https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti|User-Agent=android-R+&Referer=https://www.rctiplus.com/",
-    "isForcedLive": false,
-    "autoLiveByTime": true
-  }
-]
 
