@@ -1,9 +1,9 @@
 [
   {
-    "teamHome": "Indonesia",
-    "teamAway": "Vietnam",
-    "teamHomeLogo": "https://flagcdn.com/w80/id.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/vn.png",
+    "teamHome": "",
+    "teamAway": "",
+    "teamHomeLogo": "",
+    "teamAwayLogo": "",
     "league": "Piala AFF",
     "timeDisplay": "06:44 WIB",
     "startTimeHour": 06,
@@ -11,7 +11,7 @@
     "durationMinutes": 120,
     "channelTarget": "RCTI",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtUOUlxejAsHRp5clHl6TFuxKb64H1oe6VKw&s",
-    "streamUrl": "https://stream.diorx.my.id/live/RCTI.m3u8",
+    "streamUrl": "",
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
     "referer": "https://m.rctiplus.com/",
     "isForcedLive": false,
