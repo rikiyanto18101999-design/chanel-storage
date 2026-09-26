@@ -3,8 +3,8 @@
   {
     "teamHome": "Inggris",
     "teamAway": "spanyol",
-    "teamHomeLogo": "",
-    "teamAwayLogo": "",
+    "teamHomeLogo": "https://flagcdn.com/w80/gb-eng.png",
+    "teamAwayLogo": "https://flagcdn.com/w80/esp.png",
     "league": "UEFA",
     "matchDate": "2026-09-27",
     "timeDisplay": "01:45 WIB",
