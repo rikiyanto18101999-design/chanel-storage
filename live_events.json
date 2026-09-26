@@ -32,11 +32,24 @@
     "teamHomeLogo": "https://flagcdn.com/256x192/sg.png",
     "teamAwayLogo": "https://flagcdn.com/256x192/bd.png",
     "league": "FIFA ASEAN CUP 2026",
-    "matchDate": "2026-09-27",
+    "matchDate": "2026-09-28",
     "timeDisplay": "16:00 WIB",
     "startTimeHour": 16,
     "startTimeMinute": 00,
     "channelTarget": "live senin",
     "streamUrl": "https://xoilaczzw.cc/truc-tiep/singapore-vs-bangladesh-luc-1600-ngay-28-09-2026/"
+  },
+   {
+    "teamHome": "malaysia",
+    "teamAway": "indonesia pasti menang",
+    "teamHomeLogo": "https://flagcdn.com/256x192/my.png",
+    "teamAwayLogo": "https://flagcdn.com/256x192/id.png",
+    "league": "FIFA ASEAN CUP 2026",
+    "matchDate": "2026-09-28",
+    "timeDisplay": "19:30 WIB",
+    "startTimeHour": 19,
+    "startTimeMinute": 30,
+    "channelTarget": "live senin",
+    "streamUrl": "https://xoilaczzw.cc/truc-tiep/indonesia-vs-malaysia-luc-1930-ngay-28-09-2026/"
   }
 ]
