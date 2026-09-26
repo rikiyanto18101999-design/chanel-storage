@@ -1,19 +1,6 @@
 
 [
   {
-    "teamHome": "Inggris",
-    "teamAway": "spanyol",
-    "teamHomeLogo": "https://flagcdn.com/w80/gb-eng.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/es.png",
-    "league": "UEFA",
-    "matchDate": "2026-09-27",
-    "timeDisplay": "01:45 WIB",
-    "startTimeHour": 01,
-    "startTimeMinute": 45,
-    "channelTarget": "live 1",
-    "streamUrl": "https://xoilaczzq.cc/truc-tiep/anh-vs-tay-ban-nha-luc-0145-ngay-27-09-2026/link/2"
-  },
-  {
     "teamHome": "Hongkong",
     "teamAway": "laos",
     "teamHomeLogo": "https://flagcdn.com/w80/hk.png",
@@ -25,18 +12,5 @@
     "startTimeMinute": 00,
     "channelTarget": "live 2",
     "streamUrl": "https://xoilaczzw.cc/truc-tiep/hong-kong-vs-lao-luc-1400-ngay-27-09-2026/"
-  },
-  {
-    "teamHome": "inggris",
-    "teamAway": "spanyol",
-    "teamHomeLogo": "https://flagcdn.com/w80/gb-eng.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/es.png",
-    "league": "UEFA",
-    "matchDate": "2026-09-27",
-    "timeDisplay": "04:14 WIB",
-    "startTimeHour": 04,
-    "startTimeMinute": 14,
-    "channelTarget": "live 3",
-    "streamUrl": "https://funn-g1047.huibo.tv/GA/H30041/chunks.m3u8?p=49&cf=1790457796&d=&ip=103.175.49.225&e=1790459596&h=ecb2a9b92e4b4896bd13f266058992de"
   }    
 ]
