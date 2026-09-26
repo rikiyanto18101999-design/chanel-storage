@@ -33,10 +33,10 @@
     "teamAwayLogo": "https://flagcdn.com/w80/es.png",
     "league": "UEFA",
     "matchDate": "2026-09-27",
-    "timeDisplay": "01:55 WIB",
-    "startTimeHour": 01,
-    "startTimeMinute": 55,
+    "timeDisplay": "04:14 WIB",
+    "startTimeHour": 04,
+    "startTimeMinute": 14,
     "channelTarget": "live 3",
-    "streamUrl": "https://tfzm4gr4ugmtwgczdcqjqgr5y.100ycdn.com/pull-gaia-nextfortunesea.sdzgxx.cn/live/dps-60554977-hydra-wsu/playlist.m3u8?wsSecret=5af754841e5517910845377186cebbca&wsABSTime=6ab85938&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJRVCIsInVpcCI6IjEwMy4xNzUuNDkuMjI1IiwidWlkIjoiNjA1NTQ5NzciLCJpYXQiOjE3OTA0NTI1NTQsImV4cCI6MTc5MDQ1MzE1NH0.fxvCbfd_pp2860EWc5IKGqkY5hxJxo5p_RzXarsrzno&opt=1&wsSession=6e5e48cde178b0231176ecbe-179045256043358&wsIPSercert=dd0cc6e62a8ed3206c1f69ccf071dba4&wsBindIP=2&wsserid=1168287746149776142"
+    "streamUrl": "https://bp1047.598282485421.com/GA/H30041/chunks.m3u8?sign=70b0e04e8b6c50c8cf14532c1f247dd6&t=1790458707
   }    
 ]
