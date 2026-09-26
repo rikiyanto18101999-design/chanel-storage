@@ -12,5 +12,18 @@
     "startTimeMinute": 45,
     "channelTarget": "live 1",
     "streamUrl": "https://xoilaczzq.cc/truc-tiep/anh-vs-tay-ban-nha-luc-0145-ngay-27-09-2026/link/2"
+  },
+  {
+    "teamHome": "Hongkong",
+    "teamAway": "laos",
+    "teamHomeLogo": "https://flagcdn.com/w80/hkg.png",
+    "teamAwayLogo": "https://flagcdn.com/w80/lao.png",
+    "league": "FIFA ASEAN CUP 2026",
+    "matchDate": "2026-09-27",
+    "timeDisplay": "14:00 WIB",
+    "startTimeHour": 14,
+    "startTimeMinute": 00,
+    "channelTarget": "live 2",
+    "streamUrl": "https://xoilaczzw.cc/truc-tiep/hong-kong-vs-lao-luc-1400-ngay-27-09-2026/link/1"
   }
 ]
