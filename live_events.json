@@ -1,37 +1,29 @@
 [
   {
-    "teamHome": "Slovenia",
-    "teamAway": "Scotland",
-    "teamHomeLogo": "https://flagcdn.com/w160/si.png",
-    "teamAwayLogo": "https://flagcdn.com/w160/gb-sct.png",
-    "league": "UEFA Nations League",
+    "teamHome": "iceland",
+    "teamAway": "estonia",
+    "teamHomeLogo": "https://id.wikipedia.org/wiki/Bendera_Islandia",
+    "teamAwayLogo": "",
+    "league": "Kualifikasi Piala Dunia",
+    "matchDate": "2026-09-27",
     "timeDisplay": "20:00 WIB",
-    "channelTarget": "Live Bola 1",
-    "url": "",
-    "isForcedLive": true
+    "startTimeHour": 20,
+    "startTimeMinute": 0,
+    "durationMinutes": 120,
+    "channelTarget": "",
+    "streamUrl": "https://xoilaczzq.cc/truc-tiep/iceland-vs-estonia-luc-2300-ngay-26-09-2026/",
+    "userAgent": "",
+    "referer": ""
   },
   {
-    "teamHome": "Vietnam",
-    "teamAway": "Philippines",
-    "teamHomeLogo": "https://flagcdn.com/w160/vn.png",
-    "teamAwayLogo": "https://flagcdn.com/w160/ph.png",
-    "league": "Piala AFF",
-    "timeDisplay": "19:30 WIB",
-    "channelTarget": "Live Bola 2",
-    "url": "",
-    "isForcedLive": true
-  },
-  {
-    "teamHome": "saratov",
-    "teamAway": "samara",
-    "teamHomeLogo": "https://en.wikipedia.org/wiki/BC_Avtodor",
-    "teamAwayLogo": "https://cdn.phototourl.com/member/2026-09-26-4dd84d31-2639-4e13-ab9b-59e7d444b2d1.png",
-    "league": "VTB UNITED LEAGUE",
-    "timeDisplay": "20:00 WIB",
-    "channelTarget": "Live Bola 3",
-    "url": "",
-    "isForcedLive": true
+    "teamHome": "Jepang",
+    "teamAway": "Australia",
+    "league": "Asian Cup",
+    "timeDisplay": "FT",
+    "isFinished": true,
+    "homeScore": 2,
+    "awayScore": 1,
+    "channelTarget": "iNews",
+    "streamUrl": "https://server-anda.com/live/stream2.m3u8"
   }
 ]
-
-
