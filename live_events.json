@@ -9,32 +9,5 @@
     "startTimeMinute": 20,
     "channelTarget": "Live Bola 1",
     "streamUrl": "https://xoilaczzq.cc/truc-tiep/iceland-vs-estonia-luc-2300-ngay-26-09-2026/link/2"
-  },
-  {
-    "teamHome": "iceland",
-    "teamAway": "estonia",
-    "teamHomeLogo": "",
-    "teamAwayLogo": "",
-    "league": "Kualifikasi Piala Dunia",
-    "matchDate": "2026-09-27",
-    "timeDisplay": "12:15 WIB",
-    "startTimeHour": 12,
-    "startTimeMinute": 15,
-    "durationMinutes": 120,
-    "channelTarget": "",
-    "streamUrl": "https://xoilaczzq.cc/truc-tiep/iceland-vs-estonia-luc-2300-ngay-26-09-2026/",
-    "userAgent": "",
-    "referer": ""
-  },
-  {
-    "teamHome": "Jepang",
-    "teamAway": "Australia",
-    "league": "Asian Cup",
-    "timeDisplay": "FT",
-    "isFinished": true,
-    "homeScore": 2,
-    "awayScore": 1,
-    "channelTarget": "iNews",
-    "streamUrl": ""
   }
 ]
