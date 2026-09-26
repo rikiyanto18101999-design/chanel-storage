@@ -10,7 +10,20 @@
     "timeDisplay": "14:00 WIB",
     "startTimeHour": 14,
     "startTimeMinute": 00,
-    "channelTarget": "live 2",
+    "channelTarget": "live hari ini",
     "streamUrl": "https://xoilaczzw.cc/truc-tiep/hong-kong-vs-lao-luc-1400-ngay-27-09-2026/"
-  }    
+  },
+  {
+    "teamHome": "kamboja",
+    "teamAway": "myanmar",
+    "teamHomeLogo": "https://flagcdn.com/256x192/kh.png",
+    "teamAwayLogo": "https://flagcdn.com/256x192/mm.png",
+    "league": "FIFA ASEAN CUP 2026",
+    "matchDate": "2026-09-27",
+    "timeDisplay": "17:00 WIB",
+    "startTimeHour": 17,
+    "startTimeMinute": 00,
+    "channelTarget": "live hari ini",
+    "streamUrl": "https://xoilaczzw.cc/truc-tiep/campuchia-vs-myanmar-luc-1700-ngay-27-09-2026/link/2"
+  }
 ]
