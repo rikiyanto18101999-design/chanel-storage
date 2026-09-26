@@ -11,9 +11,9 @@
     "streamUrl": ""
   },
   {
-    "teamHome": "iceland",
-    "teamAway": "estonia",
-    "teamHomeLogo": "https://id.wikipedia.org/wiki/Bendera_Islandia",
+    "teamHome": "",
+    "teamAway": "",
+    "teamHomeLogo": "",
     "teamAwayLogo": "",
     "league": "Kualifikasi Piala Dunia",
     "matchDate": "2026-09-27",
@@ -22,7 +22,7 @@
     "startTimeMinute": 0,
     "durationMinutes": 120,
     "channelTarget": "",
-    "streamUrl": "https://xoilaczzq.cc/truc-tiep/iceland-vs-estonia-luc-2300-ngay-26-09-2026/",
+    "streamUrl": "",
     "userAgent": "",
     "referer": ""
   },
@@ -35,6 +35,6 @@
     "homeScore": 2,
     "awayScore": 1,
     "channelTarget": "iNews",
-    "streamUrl": "https://server-anda.com/live/stream2.m3u8"
+    "streamUrl": ""
   }
 ]
