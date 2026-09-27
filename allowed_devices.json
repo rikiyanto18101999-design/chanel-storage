@@ -3,7 +3,8 @@
   "allowedDevices": [
     "4E92-3572-3FA1-F299",
     "73D4-61D2-0881-4C45",
-    "75F9-F1FE-2B77-A7A6"
+    "75F9-F1FE-2B77-A7A6",
+    "",
   ],
   "blockedDevices": [],
   "broadcastMessage": "Aplikasi TANGOFA TV dibatasi khusus untuk perangkat terdaftar.",
