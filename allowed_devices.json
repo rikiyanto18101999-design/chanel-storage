@@ -1,0 +1,11 @@
+{
+  "whitelistEnabled": true,
+  "allowedDevices": [
+    "ID_PERANGKAT_HP_ANDA_SENDIRI",
+    "ID_PERANGKAT_TV_ANDA"
+  ],
+  "blockedDevices": [],
+  "broadcastMessage": "Aplikasi TANGOFA TV dibatasi khusus untuk perangkat terdaftar.",
+  "telegramAdmin": "https://t.me/+6iJj7XPDRe9hZTFl",
+  "masterPin": "181099"
+}
