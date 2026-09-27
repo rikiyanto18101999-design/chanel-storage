@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VGBP9wj.png" group-title="HBO GO" x-source="Pengembara Hitam Update" ,HBO+
-http://sep22x.in/live/N5nzdB/UUNpGG/83574.ts
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/tAB9753SDI.png" group-title="HBO GO" x-source="Pengembara Hitam Update" ,HBO 2
-http://sep22x.in/live/N5nzdB/UUNpGG/83576.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y6164V7.png" group-title="HBO GO" x-source="Pengembara Hitam Update" tvg-id="Canal.HBO.Pop.mx" ,HBO Pop
-http://sep22x.in/live/N5nzdB/UUNpGG/140948.ts
-#EXTINF:-1 tvg-logo="https://i.imghippo.com/files/cnB4307w.jpg" group-title="HBO GO" x-source="Pengembara Hitam Update" ,HBO XTREME
-http://sep22x.in/live/N5nzdB/UUNpGG/140947.ts
-#EXTINF:-192 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/107/CH_LOGO/160/160/0/0/61157416071448.png" group-title="HBO GO" x-source="Pengembara Hitam Update" , HBO Mundi
-http://sep22x.in/live/N5nzdB/UUNpGG/83582.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/11cogq3f6ewil4xavwnh3/hbo.png?rlkey=2qd8p4fzhaxy4mnk9vkn5v41c&dl=0" group-title="HBO GO" x-source="Pengembara Hitam Update" tvg-id="hboasia.sg" ,HBO
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
 
 
 
