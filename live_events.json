@@ -51,5 +51,18 @@
     "startTimeMinute": 30,
     "channelTarget": "live senin",
     "streamUrl": "https://xoilaczzw.cc/truc-tiep/indonesia-vs-malaysia-luc-1930-ngay-28-09-2026/"
+  },
+  {
+    "teamHome": "Hongkong",
+    "teamAway": "laos",
+    "teamHomeLogo": "https://flagcdn.com/256x192/hk.png",
+    "teamAwayLogo": "https://flagcdn.com/256x192/la.png",
+    "league": "FIFA ASEAN CUP 2026",
+    "matchDate": "2026-09-27",
+    "timeDisplay": "14:00 WIB",
+    "startTimeHour": 14,
+    "startTimeMinute": 00,
+    "channelTarget": "live hari ini",
+    "streamUrl": "https://bp1047.598282485421.com/UK/H55/chunks.m3u8?sign=5e293b1dbade60b5169747737b6127c6&t=1790494276"
   }
 ]
