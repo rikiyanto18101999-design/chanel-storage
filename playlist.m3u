@@ -150,6 +150,16 @@ https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://stream.diorx.my.id/live/gtv.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="📺 TV Nasional",GTV
+#EXTVLCOPT=android-R+
+#EXTVLCOPT=https://www.rctiplus.com/
+https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/streaming-gtv-kartun-masa-kecil-1-qv79ye7sk8hbtg5u3kmpfn2s6bbz1ma5cdbgx9xo26.jpg" group-title="📺 TV Nasional",GTV
+#EXTVLCOPT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+#EXTVLCOPT=https://m.rctiplus.com/
+https://stream.diorx.my.id/live/gtv.m3u8
 # ---------------- iNEWS ----------------
 
 # ---------------- GTV WORLD ----------------
