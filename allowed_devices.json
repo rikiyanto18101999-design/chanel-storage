@@ -1,7 +1,7 @@
 {
   "whitelistEnabled": true,
   "allowedDevices": [
-    "ID_PERANGKAT_HP_ANDA_SENDIRI",
+    "4E92-3572-3FA1-F299",
     "ID_PERANGKAT_TV_ANDA"
   ],
   "blockedDevices": [],
