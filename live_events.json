@@ -10,9 +10,24 @@
     "timeDisplay": "16: WIB ",
     "startTimeHour": 16,
     "startTimeMinute": 0,
-    "channelTarget": "Live Bola 1",
+    "channelTarget": "Live Bola",
     "streamUrl": "https://xoilaczzzy.cc/truc-tiep/malaysia-vs-viet-nam-luc-1600-ngay-05-10-2026/link/9",
     "scoreUrl": "https://xoilaczzzy.cc/truc-tiep/malaysia-vs-viet-nam-luc-1600-ngay-05-10-2026/link/9"
+  },
+  {
+    "teamHome": "indonesia",
+    "teamAway": "thailand",
+    "league": "FIFA ASEAN CUP 2026",
+    "teamHomeLogo": "https://flagcdn.com/w80/id.png",
+    "teamAwayLogo": "https://flagcdn.com/w80/th.png",
+    "league": "FIFA ASEAN CUP 2026",
+    "matchDate": "2026-10-05",
+    "timeDisplay": "20:00 WIB ",
+    "startTimeHour": 20,
+    "startTimeMinute": 0,
+    "channelTarget": "Live Bola",
+    "streamUrl": "https://xoilaczzzy.cc/truc-tiep/indonesia-vs-thai-lan-luc-2000-ngay-05-10-2026/link/3",
+    "scoreUrl": "https://xoilaczzzy.cc/truc-tiep/indonesia-vs-thai-lan-luc-2000-ngay-05-10-2026/link/3"
   }
 ]
 
