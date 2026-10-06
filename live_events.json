@@ -1,94 +1,17 @@
 [
   {
-    "teamHome": "indonesia",
-    "teamAway": "thailand",
-    "league": "FIFA ASEAN CUP 2026",
-    "teamHomeLogo": "https://flagcdn.com/w80/id.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/th.png",
-    "league": "FIFA ASEAN CUP 2026",
-    "matchDate": "2026-10-05",
-    "timeDisplay": "20:00 WIB ",
-    "startTimeHour": 20,
-    "startTimeMinute": 0,
-    "channelTarget": "Live Bola",
-    "streamUrl": "https://xoilaczzzy.cc/truc-tiep/indonesia-vs-thai-lan-luc-2000-ngay-05-10-2026/link/3",
-    "scoreUrl": "https://xoilaczzzy.cc/truc-tiep/indonesia-vs-thai-lan-luc-2000-ngay-05-10-2026/link/3"
-  },
-  {
-    "teamHome": "indonesia",
-    "teamAway": "thailand",
-    "league": "FIFA ASEAN CUP 2026",
-    "teamHomeLogo": "https://flagcdn.com/w80/id.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/th.png",
-    "league": "FIFA ASEAN CUP 2026",
-    "matchDate": "2026-10-05",
-    "timeDisplay": "20:00 WIB ",
-    "startTimeHour": 20,
-    "startTimeMinute": 0,
-    "channelTarget": "Live Bola",
-    "streamUrl": "https://funn-g1047.huibo.tv/GE/H10/chunks.m3u8?p=46&cf=1791205627&d=&ip=220.210.147.188&e=1791207427&h=a3d99c0b5335e10a2831b2c87b22d66ba",
-    "scoreUrl": "https://xoilaczzzy.cc/truc-tiep/indonesia-vs-thai-lan-luc-2000-ngay-05-10-2026/link/3"
-  },
-  {
-    "teamHome": "perancis",
-    "teamAway": "belgia",
-    "league": "UEFA",
-    "teamHomeLogo": "https://flagcdn.com/w80/fr.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/be.png",
-    "league": "FIFA ASEAN CUP 2026",
-    "matchDate": "2026-10-06",
-    "timeDisplay": "01:45 WIB ",
-    "startTimeHour": 1,
-    "startTimeMinute": 45
-    "channelTarget": "Live Bola",
-    "streamUrl": "https://xoilaczzzy.cc/truc-tiep/phap-vs-bi-luc-0145-ngay-06-10-2026/link/1/",
-    "scoreUrl": "https://xoilaczzzy.cc/truc-tiep/phap-vs-bi-luc-0145-ngay-06-10-2026/link/1/"
-  },
-  {
-    "teamHome": "indonesia",
-    "teamAway": "thailand",
-    "league": "FIFA ASEAN CUP 2026",
-    "teamHomeLogo": "https://flagcdn.com/w80/id.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/th.png",
-    "league": "FIFA ASEAN CUP 2026",
-    "matchDate": "2026-10-05",
-    "timeDisplay": "22:00 WIB ",
-    "startTimeHour": 22,
-    "startTimeMinute": 0,
-    "channelTarget": "Live Bola",
-    "streamUrl": "https://tfzv1gr3uomttgr31hctugyzdgpe.100ycdn.com/pull-gaia-nextfortunesea.sdzgxx.cn/live/dps-60571844-merak-wsu/playlist.m3u8?wsSecret=47c2cc587c953c0111d848621cafb5f1&wsABSTime=6ac3e5dc&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJRVCIsInVpcCI6IjE4Mi41LjYuMTEiLCJ1aWQiOiI2MDU3MTg0NCIsImlhdCI6MTc5MTIxMjQwMSwiZXhwIjoxNzkxMjEzMDAxfQ.r_f10J1U3ofUNBLumXA9dDHn8jCegB6iSmIQWdOdmUw&opt=1&wsSession=39a72514ed5b233ba9b981f7-179121293352063&wsIPSercert=c3da1d844fe81de89a2dac5e975754e6&wsBindIP=2&wsserid=1168267666554704993",
-    "scoreUrl": "https://xoilaczzzy.cc/truc-tiep/indonesia-vs-thai-lan-luc-2000-ngay-05-10-2026/link/3"
-  },
-  {
-    "teamHome": "italia",
-    "teamAway": "turki",
-    "league": "UEFA",
-    "teamHomeLogo": "https://flagcdn.com/w80/it.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/tr.png",
-    "league": "FIFA ASEAN CUP 2026",
-    "matchDate": "2026-10-06",
-    "timeDisplay": "01:45 WIB ",
-    "startTimeHour": 1,
-    "startTimeMinute": 45
-    "channelTarget": "Live Bola",
-    "streamUrl": "https://xoilaczzzy.cc/truc-tiep/italy-vs-tho-nhi-ky-luc-0145-ngay-06-10-2026/link/1/",
-    "scoreUrl": "https://xoilaczzzy.cc/truc-tiep/italy-vs-tho-nhi-ky-luc-0145-ngay-06-10-2026/link/1/"
-  },
-  
-  {
-    "teamHome": "rumania",
-    "teamAway": "swedia",
-    "league": "UEFA",
-    "teamHomeLogo": "https://flagcdn.com/w80/ro.png",
-    "teamAwayLogo": "https://flagcdn.com/w80/se.png",
+    "teamHome": "kazakhstan",
+    "teamAway": "kepulauan faroe",
+    "teamHomeLogo": "https://flagcdn.com/w80/kz.png",
+    "teamAwayLogo": "https://flagcdn.com/w80/fo.png",
     "league": "UEFA",
     "matchDate": "2026-10-06",
-    "timeDisplay": "01:45 WIB ",
-    "startTimeHour": 1,
-    "startTimeMinute": 45
+    "timeDisplay": "21:00 WIB ",
+    "startTimeHour": 21,
+    "startTimeMinute": 0,
     "channelTarget": "Live Bola",
-    "streamUrl": "https://xoilaczzzy.cc/truc-tiep/romania-vs-thuy-dien-luc-0145-ngay-06-10-2026/link/3/",
-    "scoreUrl": "https://xoilaczzzy.cc/truc-tiep/romania-vs-thuy-dien-luc-0145-ngay-06-10-2026/link/3/"
+    "streamUrl": "https://xoilaczbh.tv/truc-tiep/kazakhstan-vs-faroe-islands-luc-2100-ngay-06-10-2026/link/3",
+    "scoreUrl": "https://xoilaczbh.tv/truc-tiep/kazakhstan-vs-faroe-islands-luc-2100-ngay-06-10-2026/link/3"
   }
 ]
 
