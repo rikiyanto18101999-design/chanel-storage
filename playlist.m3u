@@ -16,28 +16,12 @@
 
 # ---------------- ANTV ----------------
 
-#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
+#EXTINF:-1 tvg-id="ANTV.id@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="Indonesia Channels",ANTV HD (Vision+) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=10
+#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=10
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
-
-#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktbpid37.cubmu.com/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd?signature=ZTdkN2QxZGQxMjY2OGVhMmM0NjQwMWMzZDFjOGY5YTY=&time=77777777777&device_id=qlt27toOGNI8UMwutiaoZbIMArNXHoxU-iCpt-rB2kzSvN46PA
-
-#EXTINF:-1 tvg-id="ANTV.id@SD" group-title="Nasional" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_antv.png",ANTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://beetv.my.id/xstreamx/vd.m3u8?ch=antv
-
-#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-8ZOCCFoPNA9ms_SLoPbTfiivrl_7xyCxg&s" group-title="📺 TV Nasional",ANTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://calistaiptv.my.id/indopart/play.m3u8?id=782&type=hls
 # ---------------- SCTV ----------------
 
 # ---------------- BERITA SATU ----------------
