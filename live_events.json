@@ -1,36 +1,17 @@
 [
   {
-    "teamHome": "BAYERN MUNCHEN",
-    "teamAway": "ARSENAL",
-    "league": "LIGA CHAMPIONS",
-    "teamHomeLogo": "https://assets.football-logos.cc/logos/germany/512x512/bayern-munchen.8eda8ecc.png
-",
-    "teamAwayLogo": "https://assets.football-logos.cc/logos/england/512x512/arsenal.02d595b0.png
-",
-    "league": "LIGA CHAMPIONS",
-    "matchDate": "2026-10-22",
-    "timeDisplay": "02:00 WIB",
-    "startTimeHour": 2,
-    "startTimeMinute": 0,
-    "channelTarget": "Live Bola",
-    "streamUrl": "https://xoilaczzzs.cc/truc-tiep/bayern-munich-vs-arsenal-luc-0200-ngay-22-10-2026/link/5",
-    "scoreUrl": "https://xoilaczzzs.cc/truc-tiep/bayern-munich-vs-arsenal-luc-0200-ngay-22-10-2026/link/5"
-  },
-   {
     "teamHome": "Real Madrid",
-    "teamAway": "Rp Leipzig",
+    "teamAway": "Barkelona",
     "league": "LIGA CHAMPIONS",
-    "teamHomeLogo": "https://assets.football-logos.cc/logos/spain/512x512/real-madrid.c97a476c.png
-",
-    "teamAwayLogo": "https://assets.football-logos.cc/logos/germany/512x512/rb-leipzig.5a21bcbd.png
-",
-    "league": "LIGA CHAMPIONS",
-    "matchDate": "2026-10-22",
-    "timeDisplay": "02:00 WIB",
-    "startTimeHour": 2,
+    "teamHomeLogo": "https://seeklogo.com/images/R/real-madrid-logo-52E3742CB4-seeklogo.com.png",
+    "teamAwayLogo": "https://wallpapers.com/png/real-madridand-f-c-barcelona-crests-oyitwz2wzs5qtyp8.html",
+    "league": "LA Liga",
+    "matchDate": "2026-10-26",
+    "timeDisplay": "03:00 WIB",
+    "startTimeHour": 3,
     "startTimeMinute": 0,
     "channelTarget": "Live Bola",
-    "streamUrl": "https://xoilaczzzs.cc/truc-tiep/real-madrid-vs-rb-leipzig-luc-0200-ngay-22-10-2026/link/5",
-    "scoreUrl": "https://xoilaczzzs.cc/truc-tiep/real-madrid-vs-rb-leipzig-luc-0200-ngay-22-10-2026/link/5"
-   }
+    "streamUrl": "https://rcharts.io/truc-tiep/barcelona-vs-real-madrid-luc-0300-ngay-26-10-2026/link/5",
+    "scoreUrl": "https://rcharts.io/truc-tiep/barcelona-vs-real-madrid-luc-0300-ngay-26-10-2026/link/5"
+  }
 ]
